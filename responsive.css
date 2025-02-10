@@ -1,0 +1,437 @@
+@media (max-width: 1240px) {
+    .slider-p {
+        width: 529px;
+        padding: 10px;
+    }
+
+    .slider-p p {
+        font-size: 22px;
+        margin: 0px 0;
+    }
+
+    .slider-p li {
+        padding: 5px;
+    }
+
+    .imageslider {
+        height: 65vh;
+    }
+}
+
+@media (max-width:920px) {
+    .servvice-carddd {
+        width: 300px;
+    }
+
+    .hme-cont2 h2 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width:1050px) {
+    .main-image-slider {
+        background: linear-gradient(#BB292A, #014256, #024252);
+    }
+
+    .hero h1 {
+        font-size: 44px;
+    }
+
+    .hero h2 {
+        font-size: 23px;
+    }
+
+    .hero p {
+        font-size: 22px;
+        margin-left: 0;
+        display: -webkit-inline-flex;
+    }
+
+    .slider-p {
+        width: 847px;
+        padding: 10px;
+    }
+
+    .hero {
+        width: 100%;
+    }
+}
+
+
+@media (max-width:900px) {
+    .nav-bar-start {
+        flex-direction: column;
+        align-items: start;
+        position: relative;
+    }
+
+    .nav-bar {
+        flex-direction: column;
+        align-items: start;
+        margin-top: 0;
+        height: 0;
+        overflow: hidden;
+        transition: 0.5s;
+    }
+
+    .nav-bar a {
+        margin-top: 10px;
+    }
+
+    .m-burger {
+        display: block;
+        position: absolute;
+        right: 5%;
+        margin-top: 15px;
+        /* top: 0; */
+        border: 4px solid blue;
+        padding: 10px 10px 8px;
+        border-radius: 5px;
+    }
+
+    .m-burger i {
+        font-size: 20px;
+        color: blue;
+    }
+
+    .dropdown {
+        position: absolute;
+        top: 80px;
+        right: 125px;
+        margin-top: 20px;
+        box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    }
+
+    .dropdown a ul {
+        margin-top: 3px;
+    }
+
+    .why-you {
+        width: 99%;
+        margin: 0 auto;
+
+    }
+
+    .seeo-img {
+        width: 94%;
+    }
+
+    .seeo-text {
+        width: 97%;
+    }
+
+    .seeo-text h5 {
+        padding: 10px 0;
+    }
+
+    .seeo-text p {
+        padding-left: 5px;
+    }
+}
+
+
+
+
+
+@media (max-width:795px) {
+    .servvice-carddd {
+        width: 430px;
+        margin: 0 auto;
+    }
+
+    .hme-cont2 h2 {
+        font-size: 20px;
+        margin-bottom: 1px;
+    }
+
+    .home-cont-btn {
+        margin: 15px auto;
+    }
+
+    .why-you-card-img {
+        width: 90%;
+    }
+
+    .para-ggg {
+        width: 100%;
+        padding: 5px;
+    }
+
+    .para-gggs {
+        width: 92%;
+    }
+
+    .why-you-card-img img {
+        width: 104%;
+    }
+
+    .starrtts-why {
+        padding: 32px;
+    }
+
+    .ch-up {
+        display: none;
+    }
+
+}
+
+@media (max-width:610px) {
+    .heros-bri {
+        width: 45%;
+    }
+
+    .heros-cha {
+        width: 45%;
+    }
+
+    .hero-bri {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .index-con {
+        height: 30vh;
+    }
+
+    .index-con img {
+        height: 100%;
+    }
+
+    .hme-cont2 h2 {
+        display: none;
+    }
+
+    .hme-cont2 h3 {
+        font-size: 25px;
+    }
+
+    .home-cont-btn {
+        margin: 24px auto;
+    }
+
+    .nav-img img {
+        width: 39%;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .hero h2 {
+        font-size: 20px;
+    }
+
+    .hero p {
+        font-size: 18px;
+    }
+
+    .start-ser h4 {
+        font-size: 35px;
+    }
+
+    .why-you h2 {
+        font-size: 22px;
+    }
+
+    .dropdown {
+        right: 0;
+        box-shadow: none;
+        background: none;
+    }
+
+    .nav-bar a ul,
+    .nav-bar ul li {
+        font-size: 16px;
+    }
+
+    .dropdown a ul {
+        margin-top: 2px;
+    }
+
+    .nav-bar-start {
+        padding: 3px 20px;
+    }
+
+    .m-burger {
+        margin-top: 3px;
+    }
+
+
+}
+
+@media (max-width:480px) {
+    .imageslider {
+        height: 45vh;
+    }
+
+    .slider-p h1 {
+        font-size: 31px;
+        padding: 2% 0 0;
+    }
+
+    .slider-p p {
+        font-size: 20px;
+    }
+
+    .home-cont-btn {
+        margin: 20px auto;
+    }
+
+    .home-cont-btn a {
+        font-size: 16px;
+    }
+
+    .slider-p li h3 {
+        font-size: 15px;
+    }
+
+    .cha-up p {
+        font-size: 15px;
+    }
+
+}
+
+
+
+@media (max-width: 1200px) {
+    .verticalpp-item {
+        width: calc(24.33% - 30px);
+        /* 3 items per row for medium screens */
+    }
+}
+
+@media (max-width: 900px) {
+    .verticalpp-item {
+        width: calc(50% - 30px);
+        /* 2 items per row for smaller screens */
+    }
+}
+
+@media (max-width: 600px) {
+    .verticalpp-item {
+        width: calc(100% - 30px);
+        /* 1 item per row for mobile screens */
+    }
+
+    .city-list {
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}
+
+
+@media (max-width: 900px) {
+    .processss-container {
+        grid-template-columns: 1fr;
+    }
+
+    .steppp::after,
+    .steppp::before {
+        display: none;
+    }
+}
+
+@media (max-width:810px) {
+    .flex-div {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .features {
+        width: 100%;
+        padding-left: 20px;
+        line-height: 1.8;
+    }
+
+    .features li {
+        font-size: 13px;
+    }
+
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .seo-content-dl {
+        flex-direction: column;
+    }
+
+    .content-dl,
+    .form-seo-content-dl {
+        flex: 1 1 100%;
+        padding: 10px;
+    }
+
+}
+
+
+@media (max-width: 768px) {
+
+    th,
+    td {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    th,
+    td {
+        font-size: 13px;
+        padding: 8px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .services-griddd {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+
+    .serwice-carddd {
+        padding: 15px;
+    }
+
+    .serwice-carddd img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .city-section h1 {
+        font-size: 1.5rem;
+    }
+
+
+}
+
+@media (max-width: 398px) {
+    .icconss {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 348px) {
+    .icconss {
+        padding: 5px;
+    }
+
+    .icconss img {
+        max-width: 50px;
+    }
+}
